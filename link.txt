@@ -7,3 +7,4 @@ https://www.hackerearth.com/challenge/competitive/predict-the-criminal/machine-l
 approach 1:
 
 1. i'm trying all basic algorithm and finding which is giving max accuracy
+2. some modification on my algo

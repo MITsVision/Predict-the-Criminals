@@ -1,0 +1,10 @@
+link for the challenge:
+
+https://www.hackerearth.com/challenge/competitive/predict-the-criminal/machine-learning/predict-the-criminal/
+
+
+
+approach 1:
+
+1. tried combination of features by removing some feature
+2. tried 2 different logistic approach

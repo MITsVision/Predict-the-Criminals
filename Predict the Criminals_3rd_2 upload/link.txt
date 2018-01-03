@@ -1,0 +1,12 @@
+link for the challenge:
+
+https://www.hackerearth.com/challenge/competitive/predict-the-criminal/machine-learning/predict-the-criminal/
+
+
+
+approach:
+
+1.removing unwanted data
+2.finding garbage value
+3.replacing garbage with appropriate vale (like most freq data)
+4.applying ensembles method with best features
